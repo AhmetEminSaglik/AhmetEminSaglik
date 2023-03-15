@@ -16,7 +16,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmeteminsaglik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmeteminsaglik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
+<!-- Current/total streak
+<p align="center" dir="auto"><a href="https://github.com/harundogdu">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeteminsaglik&amp;theme=algolia" width="460em" alt="ahmeteminsaglik" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeteminsaglik&amp;theme=algolia" style="max-width: 100%;">
+</a>
+</p>
+-->
+   
    ## 🤝🏻 &nbsp;Connect with Me 🤝
   
   
