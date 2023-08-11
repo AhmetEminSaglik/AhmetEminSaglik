@@ -6,7 +6,7 @@
 <div align="center"> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,mysql,postgres,idea,git,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,hibernate,mysql,postgres,idea,git,html,css&theme=light)](https://skillicons.dev)
 
 </div>
 
